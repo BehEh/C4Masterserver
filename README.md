@@ -5,7 +5,7 @@ Quick start
 -----------
 To directly use the masterserver you will need a webserver with PHP >= 5 and access to a MySQL-database.
 
-Start by opening the folder web and navigating through server and include, open the config.ini. Enter you're preferences there, everything is documented.
+Start by opening the folder /src and navigating through server and include, open the config.ini. Enter you're preferences there, everything is documented.
 
 IMPORTANT: Before you continue make sure this folder will be inaccessible through the web later by making sure a working .htaccess is present on an Apache server or there is a corresponding chmod on the whole include folder after uploading later on.
 
